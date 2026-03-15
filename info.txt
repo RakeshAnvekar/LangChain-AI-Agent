@@ -1,0 +1,17 @@
+ReAct (Reason + Act)
+
+ReAct is a framework used by AI agents where the model reasons about a problem and then takes actions (uses tools) to solve it.
+
+ReAct = Reasoning + Acting
+
+Instead of directly answering a question, the AI agent:
+
+Thinks about the problem
+
+Decides which action/tool to use
+
+Executes the tool
+
+Observes the result
+
+Repeats the process until it finds the final answer
